@@ -8,9 +8,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Web Developer. ",
+    "I turn coffee into code and bugs into features. Sometimes the other way around.",
   summary:
-    "full stack dev",
+    "Full stack dev who probably spends way too much time making buttons look just right. No regrets though.",
   avatarUrl: "/me.png",
   skills: [
     "React",
