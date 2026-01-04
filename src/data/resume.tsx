@@ -23,7 +23,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "amritbarsiphone@gmail.com",
@@ -38,7 +38,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/amrit-barsaiyan",
+        url: "https://www.linkedin.com/in/amrit-barsaiyan/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -48,12 +48,6 @@ export const DATA = {
         url: "https://x.com/amrithehe",
         icon: Icons.x,
 
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
         navbar: true,
       },
       email: {
