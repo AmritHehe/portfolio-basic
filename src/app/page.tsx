@@ -89,21 +89,14 @@ export default function Page() {
           </div>
         </div>
       </section>
-      <section id="github">
-        <div className="flex min-h-0 flex-col gap-y-3">
-          <BlurFade delay={BLUR_FADE_DELAY * 6}>
-            <Github />
-          </BlurFade>
-        </div>
-      </section>
       <section id="projects">
         <div className="space-y-12 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
+                {/* <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
                   Projects
-                </div>
+                </div> */}
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
                   Cool Things I Built Recently
                 </h2>
@@ -135,6 +128,14 @@ export default function Page() {
           </div>
         </div>
       </section>
+      <section id="github">
+        <div className="flex min-h-0 flex-col gap-y-3">
+          <BlurFade delay={BLUR_FADE_DELAY * 6}>
+            <Github />
+          </BlurFade>
+        </div>
+      </section>
+      
       <section id="education">
         <div className="flex min-h-0 flex-col gap-y-3">
           <BlurFade delay={BLUR_FADE_DELAY * 7}>
