@@ -101,7 +101,7 @@ export default function Page() {
                   Cool Things I Built Recently
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  here are some of my best projects I build recently , checkout my github for more , always open to suggestions and feedback
+                  here are some of my best projects I built recently, checkout my github for more, always open to suggestions and feedback
                 </p>
               </div>
             </div>
@@ -215,7 +215,7 @@ export default function Page() {
                 Anything? Just say hi 👋
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Got a cool project? Want to collab? yapp about cool stuff ?  Or just want to argue about vsCode or cursor?{" "}
+                Got a cool project? Want to collab? yaap about cool stuff ?  Or just want to argue about claude-code or cursor?{" "}
                 <Link
                   href={DATA.contact.social.X.url}
                   className="text-blue-500 hover:underline"

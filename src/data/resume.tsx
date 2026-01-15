@@ -13,13 +13,23 @@ export const DATA = {
     "Full stack dev who probably spends way too much time making buttons look just right. No regrets though.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
+    "TurboRepo",
     "Next.js",
+    "React",
+    "TailwindCSS",
+    "Motion",
+    "GSAP",
     "Typescript",
     "Node.js",
+    "ExpressJS",
+    "bun",
+    "git",
     "Postgres",
+    "Prisma",
+    "AWS",
     "Docker",
-    "C++",
+    
+    // "C++",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -151,22 +161,22 @@ export const DATA = {
       start: "2021",
       end: "2025",
     },
-    {
-      school: "Maharishi Vidya Mandir",
-      href: "https://mvmchhatarpur.org/",
-      degree: "Higher Secondary Education",
-      logoUrl: "/maharishi.png",
-      start: "2019",
-      end: "2021",
-    },
-    {
-      school: "Christian English College",
-      href: "https://cecchhatarpur.co.in/cec/index.html",
-      degree: "Secondary Education",
-      logoUrl: "/cec.jpeg",
-      start: "2005",
-      end: "2019",
-    },
+    // {
+    //   school: "Maharishi Vidya Mandir",
+    //   href: "https://mvmchhatarpur.org/",
+    //   degree: "Higher Secondary Education",
+    //   logoUrl: "/maharishi.png",
+    //   start: "2019",
+    //   end: "2021",
+    // },
+    // {
+    //   school: "Christian English College",
+    //   href: "https://cecchhatarpur.co.in/cec/index.html",
+    //   degree: "Secondary Education",
+    //   logoUrl: "/cec.jpeg",
+    //   start: "2005",
+    //   end: "2019",
+    // },
   ],
   projects: [
     {
@@ -177,16 +187,18 @@ export const DATA = {
       description:
         "Create lovely , deployable websites just by describing your idea!",
       technologies: [
-        "Next.js",
+        "TurboRepo",
+        "NextJS",
         "Typescript",
+        "ExpressJS",
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
-        "AI_SDK",
+        "VERCEL AI SDK",
         "OpenRouter",
         "Cloudflare Workers",
-        "Node.js",
-        "Express.js"
+        "NodeJS",
+        "ExpressJS"
       ],
       links: [
         {
@@ -234,7 +246,7 @@ export const DATA = {
     {
       title: "Exness",
       href: "https://exness.amrithehe.com",
-      dates: "April 2023 - September 2023",
+      dates: "August 2025 - September 2025",
       active: true,
       description:
         "Developed an open-source paper trading platform for web3 with features like real-time price updates, leverage, automatic liquidation, and more.",
