@@ -196,9 +196,8 @@ export const DATA = {
         "TailwindCSS",
         "Websockets",
         "Node.js",
-        "Express.js",, 
+        "Express.js",
         "Redis",
-        "WebSocket"
       ],
       links: [
         {
