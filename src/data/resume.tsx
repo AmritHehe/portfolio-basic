@@ -202,18 +202,18 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chat-app-excelidraw-frontend.vercel.app/",
+          href: "https://skillup.amrithehe.com",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/AmritHehe/Excalidraw",
+          href: "https://github.com/AmritHehe/getHumbled",
           icon: <Icons.github className="size-3" />,
         },
       ],
       image: "",
       video:
-        "/videos/skillup-demo.mp4",
+        "/videos/skillUp-demo.mp4",
     },
     {
       title: "Buildable",
@@ -270,7 +270,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://autm8n.amrithehe.com",
+          href: "https://autm8n.amrithehe.com/landingV3",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -313,7 +313,7 @@ export const DATA = {
     },
     {
       title: "CollabyDraw",
-      href: "https://collabydraw.amrithehe.com",
+      href: "https://chat-app-excelidraw-frontend.vercel.app",
       dates: "April 2025 - May 2025",
       active: true,
       description:
