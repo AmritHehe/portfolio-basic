@@ -180,6 +180,43 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "SkillUp",
+      href: "https://skillup.amrithehe.com",
+      dates: "December 2025 - Janaury 2025",
+      active: true,
+      description:
+        "A contest and practice platform where users generate AI-assisted quizzes and participate in real-time competitive quiz events.",
+      technologies: [
+        "Next.js",
+        "React",
+        "Typescript",
+        "AI-sdk",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+        "Websockets",
+        "Node.js",
+        "Express.js",, 
+        "Redis",
+        "WebSocket"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://chat-app-excelidraw-frontend.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/AmritHehe/Excalidraw",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "/videos/skillup-demo.mp4",
+    },
+    {
       title: "Buildable",
       href: "https://lovable.amrithehe.com",
       dates: "Nov 2025 - Dec 2025",
@@ -211,6 +248,7 @@ export const DATA = {
       video:
         "/videos/lovable-demo.mp4",
     },
+    
     {
       title: "Autm8n",
       href: "https://autm8n.amrithehe.com/landingV3",
