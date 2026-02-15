@@ -8,9 +8,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "I turn coffee into code and bugs into features. Sometimes the other way around.",
+    "Full Stack Developer" ,
   summary:
-    "Full stack dev who probably spends way too much time making buttons look just right. No regrets though.",
+    "Most of what I know about engineering came from building things that initially didn’t work..",
   avatarUrl: "/me.png",
   skills: [
     "TurboRepo",
@@ -213,20 +213,22 @@ export const DATA = {
     },
     {
       title: "Autm8n",
-      href: "https://autm8n.amrithehe.com",
+      href: "https://autm8n.amrithehe.com/landingV3",
       dates: "Sept 2025 - Oct 2025",
       active: true,
       description:
         "Node based automation platform with webhook , ai and more!",
       technologies: [
-        "Next.js",
+        "TurboRepo",
+        "NextJS",
         "Typescript",
+        "ExpressJS",
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "React-Flow",
+        "NodeJS",
+        "ExpressJS"
       ],
       links: [
         {
@@ -278,7 +280,7 @@ export const DATA = {
       dates: "April 2025 - May 2025",
       active: true,
       description:
-        "Developed a real time collaborative drawing app with infinite canvas and multiple  drawing tools.",
+        "Developed a real time collaborative whiteboard app with infinite canvas and multiple drawing tools.",
       technologies: [
         "Next.js",
         "React",
